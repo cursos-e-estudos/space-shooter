@@ -1,5 +1,5 @@
 # space-shooter
-Jogo de naves programado usando exclusivamente HTML e JS. N]ao tem canvas aqui rs
+Jogo de naves programado usando exclusivamente HTML e JS. Não tem canvas aqui rs
 
 
 Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/space-shooter/)
